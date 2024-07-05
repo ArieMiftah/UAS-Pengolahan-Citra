@@ -99,4 +99,5 @@ print("Distribusi label:\n", dict(zip(unique_labels, counts)))
 
 Dan begitulah! Dengan langkah-langkah ini, kita berhasil mengelompokkan warna dalam gambar helm menjadi tiga kelompok utama, menyederhanakan gambar, dan melihat hasilnya dalam bentuk visual.
 
+## Output
 ![](images/Output.png)

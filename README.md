@@ -15,3 +15,4 @@ if image is None:
     raise FileNotFoundError("File gambar tidak ditemukan. Periksa kembali jalur file.")```
 
 ```
+> Memuat gambar helmet.jpg menggunakan OpenCV. Jika gambar tidak ditemukan, akan muncul pesan kesalahan.

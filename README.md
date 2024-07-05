@@ -12,8 +12,7 @@ Kelompok:
 ```python
 image = cv2.imread('images/helmet.jpg')
 if image is None:
-    raise FileNotFoundError("File gambar tidak ditemukan. Periksa kembali jalur file.")'''
+    raise FileNotFoundError("File gambar tidak ditemukan. Periksa kembali jalur file.")
 
 #### 2. Mengubah Warna Gambar
-```python
 image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)

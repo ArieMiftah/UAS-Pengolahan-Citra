@@ -8,6 +8,6 @@ Kelompok:
 ## Penjelasan
 
 1. Memuat Gambar
-   'image = cv2.imread('images/helmet.jpg')
+'''image = cv2.imread('images/helmet.jpg')
     if image is None:
-    raise FileNotFoundError("File gambar tidak ditemukan. Periksa kembali jalur file.")'
+    raise FileNotFoundError("File gambar tidak ditemukan. Periksa kembali jalur file.")'''

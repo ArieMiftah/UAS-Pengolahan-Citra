@@ -98,3 +98,5 @@ print("Distribusi label:\n", dict(zip(unique_labels, counts)))
 > Menampilkan distribusi label untuk mengetahui jumlah piksel dalam setiap cluster.
 
 Dan begitulah! Dengan langkah-langkah ini, kita berhasil mengelompokkan warna dalam gambar helm menjadi tiga kelompok utama, menyederhanakan gambar, dan melihat hasilnya dalam bentuk visual.
+
+![](https://images/Output.png)

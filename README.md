@@ -91,6 +91,8 @@ plt.show()
 #### 12. Menampilkan Pusat Cluster dan Distribusi Label
 ```
 print("Pusat cluster:\n", centers)
+```
+Dan begitulah! Dengan langkah-langkah ini, kita berhasil mengelompokkan warna dalam gambar helm menjadi tiga kelompok utama, menyederhanakan gambar, dan melihat hasilnya dalam bentuk visual.
 
 unique_labels, counts = np.unique(labels, return_counts=True)
 print("Distribusi label:\n", dict(zip(unique_labels, counts)))

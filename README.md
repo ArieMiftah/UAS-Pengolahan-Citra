@@ -1,9 +1,9 @@
 # UAS - Pengolahan Citra
 
 Kelompok: 
-- Arie Miftah Budiman
-* Ridwan Ahri
-+ Moh. Restu Nur Rizki
+- Arie Miftah Budiman  | 312210350
++ Moh. Restu Nur Rizki | 312210496
+* Ridwan Ahri          | 312210647
 
 ### Penjelasan Algoritme K-means Clustering untuk Segmentasi Gambar
 

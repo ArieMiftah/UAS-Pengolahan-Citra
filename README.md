@@ -5,6 +5,8 @@ Kelompok:
 + Moh. Restu Nur Rizki | 312210496
 * Ridwan Ahri          | 312210647
 
+### TI.22.B.2
+
 
 ### Penjelasan Algoritme K-means Clustering untuk Segmentasi Gambar
 
